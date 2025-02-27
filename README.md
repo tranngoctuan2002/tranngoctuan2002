@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <h2>Trần Ngọc Tuấn<h2>
-  <h1>Software Developer</h1>
+  Hi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+  Trần Ngọc Tuấn</br>
+  Software Developer
 </h1>
 
 <h1 align="center">
