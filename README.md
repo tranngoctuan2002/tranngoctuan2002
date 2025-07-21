@@ -7,6 +7,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  [![Ngọc Tuấn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranngoctuan2002&show_icons=true&theme=tokyonight)]
+  <img src="https://github-readme-stats.vercel.app/api?username=tranngoctuan2002&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=tranngoctuan2002&theme=tokyonight" alt="Streak" />
 </div>
 
