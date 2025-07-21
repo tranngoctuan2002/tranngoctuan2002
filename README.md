@@ -4,7 +4,9 @@
   Software Developer
 </h1>
 
-<h1 align="center">
-<!---<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/tranngoctum"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="225px" height="50px" alt="https://www.buymeacoffee.com/tranngoctum" /></a></p>-->
-</h1>
+## 📊 GitHub Stats
+
+<div align="center">
+  [![Ngọc Tuấn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranngoctuan2002&show_icons=true&theme=tokyonight)]
+</div>
 
